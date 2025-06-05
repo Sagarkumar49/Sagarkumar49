@@ -107,7 +107,7 @@
 ## 📚 Education & Credentials
 
 ```mermaid
-graph TD
-  A[ B.Sc. Chemistry<br>SKMU University<br>2017-2020] --> B[Advanced Excel Specialist<br>Udemy • July 2024]
-  B --> C[Data Analytics Mentorship<br>WsCube Tech • May 2025]
+graph LR
+  A[ B.Sc. Chemistry<br>SKMU University<br>2017-2020] --> B[Advanced Excel Specialist<br>Udemy<br>July 2024]
+  B --> C[Data Analytics Mentorship<br>WsCube Tech<br>May 2025]
   C --> D[Machine Learning Specialization<br>Planned 2025]
