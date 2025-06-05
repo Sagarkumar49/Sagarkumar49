@@ -53,8 +53,7 @@
 
 <div style="display:flex;flex-direction:column;gap:15px">
   <div style="display:flex;gap:20px">
-    <img src="https://img.icons8.com/3d-fluency/94/warehouse.png" width="70">
-    <div>
+      <div>
       <h3>Stock Analyst • Shree Shyamjee Steels</h3>
       <p>Sep 2023 - Jan 2025 | West Bengal</p>
       <ul>
@@ -66,8 +65,7 @@
   </div>
   
   <div style="display:flex;gap:20px">
-    <img src="https://img.icons8.com/3d-fluency/94/sell-stock.png" width="70">
-    <div>
+     <div>
       <h3>Associate • M/s Bansal Trading Company</h3>
       <p>Jun 2022 - Sep 2023 | West Bengal</p>
       <ul>
