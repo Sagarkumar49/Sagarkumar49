@@ -1,0 +1,23 @@
+name: Update GitHub Stats
+on:
+  schedule:
+    - cron: '0 */3 * * *'  # Runs every 3 hours
+  workflow_dispatch:       # Allows manual runs
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Refresh Stats
+        run: |
+          # Ping all stat services
+          curl -s "https://streak-stats.demolab.com?user=Sagarkumar49" > /dev/null
+          curl -s "https://github-readme-stats.vercel.app/api?username=Sagarkumar49" > /dev/null
+          curl -s "https://github-readme-stats.vercel.app/api/top-langs?username=Sagarkumar49" > /dev/null
+          
+      - name: Commit README Updates
+        if: github.ref == 'refs/heads/main'
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🔄 Auto-update GitHub stats"
+          file_pattern: README.md
