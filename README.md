@@ -124,9 +124,9 @@ graph LR
 <div align="center">
 
 ### Contribution Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sagarkumar49&theme=github-dark&background=0D1117&dates=58A6FF&fire=FF9D00&currStreakLabel=58A6FF&hide_border=true)](https://github.com/Sagarkumar49)
+<img src="https://streak-stats.demolab.com?user=Sagarkumar49&theme=github-dark&hide_border=true&background=0D1117&dates=58A6FF&fire=FF9D00&currStreakLabel=58A6FF&ring=58A6FF" alt="Contribution Streak">
 
 ### Profile Stats
-![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sagarkumar49&show_icons=true&theme=radical&random=1)
+<img src="https://github-readme-stats.vercel.app/api?username=Sagarkumar49&show_icons=true&theme=radical&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=FF9D00" alt="GitHub Stats">
 </div>
 
