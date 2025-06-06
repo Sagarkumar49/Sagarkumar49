@@ -2,11 +2,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1000&color=4A90E2&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Sagar+Kumar;Data+Alchemist+%7C+Business+Intelligence+Developer;Turning+Complexity+into+Clarity+%F0%9F%92%BC" alt="Animated Header">
 </div>
 
-[![Email](https://img.shields.io/badge/📧_Email-sagarburman49@gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagarburman49@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/👔_LinkedIn-sagar49-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagar49)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-View_Online-%234285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.wscubetech.com/portfolio/data/sagar-kumar-xanxikw)
-[![Resume](https://img.shields.io/badge/📄_Resume-Download-%23BD5D38?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/💻_GitHub-Repositories-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sagarkumar49)
+<div align="center">
+  
+  [![Email](https://img.shields.io/badge/Email-sagarburman49@gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagarburman49@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-sagar49-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagar49)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-View_Online-%234285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.wscubetech.com/portfolio/data/sagar-kumar-xanxikw)
+  [![Resume](https://img.shields.io/badge/Resume-Download-%23BD5D38?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)]([#](https://drive.google.com/file/d/1vi1OiaaoD6txCO2LdDnbv5dTyJsPVgUx/view?usp=drive_link))
+  [![GitHub](https://img.shields.io/badge/GitHub-Repositories-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sagarkumar49)
+  
+</div>
 
 ---
 
@@ -115,9 +119,5 @@ graph LR
   A[ B.Sc. Chemistry<br>SKMU University<br>2017-2020] --> B[Advanced Excel Specialist<br>Udemy<br>July 2024]
   B --> C[Data Analytics Mentorship<br>WsCube Tech<br>May 2025]
   C --> D[Machine Learning Specialization<br>Planned 2025]
-```
 
-## 📬 Let's Connect
-[![Email](https://img.shields.io/badge/Email-sagarburman49@gmail.com-D14836?style=flat&logo=gmail)](mailto:sagarburman49@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sagar49-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/sagar49)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Online-FF7139?style=flat&logo=google-chrome)](https://wscubetech.com/portfolio/data/sagar-kumar-xanxilov)  
+
