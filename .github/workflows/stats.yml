@@ -10,5 +10,7 @@ jobs:
     steps:
       - name: Refresh Stats
         run: |
-          curl -s "https://streak-stats.demolab.com?user=Sagarkumar49&theme=github-dark" > /dev/null
-          curl -s "https://github-readme-stats.vercel.app/api?username=Sagarkumar49" > /dev/null
+          curl -s "https://streak-stats.demolab.com?user=Sagarkumar49&force=1" > /dev/null
+          curl -s "https://github-readme-stats.vercel.app/api?username=Sagarkumar49&show_icons=true&force=1" > /dev/null
+   # Force-update all stat services
+         
