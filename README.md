@@ -5,10 +5,6 @@
 <div align="center">
   
   [![Email](https://img.shields.io/badge/Email-sagarburman49@gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagarburman49@gmail.com)
-  [![Email](https://img.shields.io/badge/📧_Email_Sagar-sagarburman49@gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagarburman49@gmail.com?subject=GitHub%20Contact)
-  <a href="mailto:sagarburman49@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/📧_Email_Sagar-sagarburman49@gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sagar">
-</a>
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-sagar49-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagar49)
   [![Portfolio](https://img.shields.io/badge/Portfolio-View_Online-%234285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.wscubetech.com/portfolio/data/sagar-kumar-xanxikw)
   [![Resume](https://img.shields.io/badge/Download_Resume-%23BD5D38?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1vi1OiaaoD6txCO2LdDnbv5dTyJsPVgUx/view?usp=sharing)
