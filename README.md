@@ -119,5 +119,15 @@ graph LR
   A[ B.Sc. Chemistry<br>SKMU University<br>2017-2020] --> B[Advanced Excel Specialist<br>Udemy<br>July 2024]
   B --> C[Data Analytics Mentorship<br>WsCube Tech<br>May 2025]
   C --> D[Machine Learning Specialization<br>Planned 2025]
+```
+## 📊 GitHub Analytics
+<div align="center">
 
+### Contribution Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sagarkumar49&theme=github-dark&background=0D1117&dates=58A6FF&fire=FF9D00&currStreakLabel=58A6FF&hide_border=true)](https://github.com/Sagarkumar49)
+
+### Profile Stats
+![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sagarkumar49&show_icons=true&theme=radical)
+
+</div>
 
