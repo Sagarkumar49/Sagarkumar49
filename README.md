@@ -115,3 +115,9 @@ graph LR
   A[ B.Sc. Chemistry<br>SKMU University<br>2017-2020] --> B[Advanced Excel Specialist<br>Udemy<br>July 2024]
   B --> C[Data Analytics Mentorship<br>WsCube Tech<br>May 2025]
   C --> D[Machine Learning Specialization<br>Planned 2025]
+```
+
+## 📬 Let's Connect
+[![Email](https://img.shields.io/badge/Email-sagarburman49@gmail.com-D14836?style=flat&logo=gmail)](mailto:sagarburman49@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sagar49-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/sagar49)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Online-FF7139?style=flat&logo=google-chrome)](https://wscubetech.com/portfolio/data/sagar-kumar-xanxilov)  
