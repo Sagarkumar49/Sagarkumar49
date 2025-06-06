@@ -36,10 +36,10 @@
 
 | Project | Tools | Challenge | Solution | Impact |
 |---------|-------|-----------|----------|--------|
-| **[🏨 ITC Hotel Revenue Optimization](https://github.com/Sagarkumar49/)** | Power BI, DAX, Power Query | 24.83% cancellation rate impacting ₹1.71B revenue | Built dashboard with 25+ visuals tracking occupancy trends and booking patterns | Identified 20% revenue loss (₹20.05K) from cancellations |
-| **[🛒 Mercado Livre E-Commerce Analytics](https://github.com/Sagarkumar49/)** | Python, SQL, Power BI | Optimizing $8.6M revenue with only 3.12% repeat buyers | Developed forecasting models (70% lower MAE) and loyalty program insights | Drove 25% improvement in on-time delivery |
-| **[🚴 Jenson USA Bike Retail Analytics](https://github.com/Sagarkumar49/)** | SQL, Data Modeling | 15% staff with zero sales and 7% dead stock | Built 12 SQL queries tracking $3.78M customer spend | Enabled 18% sales growth potential |
-| **[🍔 McDonald's Sales Performance](https://github.com/Sagarkumar49/)** | Advanced Excel, Dashboarding | 20% Wednesday revenue decline in $127K+ sales | Created time-based analysis identifying peak hours | Revealed 35% revenue concentration in top category |
+| **[🏨 ITC Hotel Revenue Optimization](https://github.com/Sagarkumar49/ITC-Hotels-Revenue-Optimization.git)** | Power BI, DAX, Power Query | 24.83% cancellation rate impacting ₹1.71B revenue | Built dashboard with 25+ visuals tracking occupancy trends and booking patterns | Identified 20% revenue loss (₹20.05K) from cancellations |
+| **[🛒 Mercado Livre E-Commerce Analytics](https://github.com/Sagarkumar49/Mercado-Livre-E-Commerce-Analytics.git)** | Python, SQL, Power BI | Optimizing $8.6M revenue with only 3.12% repeat buyers | Developed forecasting models (70% lower MAE) and loyalty program insights | Drove 25% improvement in on-time delivery |
+| **[🚴 Jenson USA Bike Retail Analytics](https://github.com/Sagarkumar49/Jensons-USA-SQL-Sales-Analysis.git)** | SQL, Data Modeling | 15% staff with zero sales and 7% dead stock | Built 12 SQL queries tracking $3.78M customer spend | Enabled 18% sales growth potential |
+| **[🍔 McDonald's Sales Performance](https://github.com/Sagarkumar49/McDonald-s-Sales-.git)** | Advanced Excel, Dashboarding | 20% Wednesday revenue decline in $127K+ sales | Created time-based analysis identifying peak hours | Revealed 35% revenue concentration in top category |
 
 <details>
 <summary><b>🌟 Project Deep Dive: ITC Hotel Revenue Optimization</b></summary>
