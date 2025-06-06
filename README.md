@@ -5,6 +5,7 @@
 <div align="center">
   
   [![Email](https://img.shields.io/badge/Email-sagarburman49@gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagarburman49@gmail.com)
+  [![Email](https://img.shields.io/badge/📧_Email_Sagar-sagarburman49@gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagarburman49@gmail.com?subject=GitHub%20Contact)
   <a href="mailto:sagarburman49@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/📧_Email_Sagar-sagarburman49@gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sagar">
 </a>
