@@ -4,7 +4,7 @@
 
 [![Email](https://img.shields.io/badge/📧_Email-sagarburman49@gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagarburman49@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/👔_LinkedIn-sagar49-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagar49)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-View_Online-%234285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wscubetech.com/portfolio/data/sagar-kumar-xanxilov)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-View_Online-%234285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.wscubetech.com/portfolio/data/sagar-kumar-xanxikw)
 [![Resume](https://img.shields.io/badge/📄_Resume-Download-%23BD5D38?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/💻_GitHub-Repositories-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sagarkumar49)
 
