@@ -127,7 +127,6 @@ graph LR
 [![GitHub Streak](https://streak-stats.demolab.com?user=Sagarkumar49&theme=github-dark&background=0D1117&dates=58A6FF&fire=FF9D00&currStreakLabel=58A6FF&hide_border=true)](https://github.com/Sagarkumar49)
 
 ### Profile Stats
-![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sagarkumar49&show_icons=true&theme=radical)
-
+![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sagarkumar49&show_icons=true&theme=radical&random=1)
 </div>
 
