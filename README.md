@@ -58,34 +58,65 @@
 </details>
 
 ---
-
 ## 💼 Professional Journey
 
-<div style="display:flex;flex-direction:column;gap:15px">
-  <div style="display:flex;gap:20px">
-      <div>
-      <h3>Stock Analyst • Shree Shyamjee Steels</h3>
-      <p>Sep 2023 - Jan 2025 | West Bengal</p>
-      <ul>
-        <li>Engineered Excel-based automation system reducing reporting time by <b>40%</b></li>
-        <li>Developed category/item tracking dashboards improving inventory accuracy by <b>25%</b></li>
-        <li>Led cross-functional team in process optimization initiatives</li>
-      </ul>
-    </div>
-  </div>
-  
-  <div style="display:flex;gap:20px">
-     <div>
-      <h3>Associate • M/s Bansal Trading Company</h3>
-      <p>Jun 2022 - Sep 2023 | West Bengal</p>
-      <ul>
-        <li>Streamlined sales/purchase records management using Advanced Excel</li>
-        <li>Achieved <b>20% reduction</b> in processing time through workflow optimization</li>
-      </ul>
-    </div>
-  </div>
-</div>
+<div style="display:flex; flex-direction:column; gap:16px;">
 
+  <!-- Data Analyst - Suraj & Co. -->
+  <div style="background:#0D1117; padding:14px 16px; border-radius:10px; border-left:4px solid #58A6FF;">
+    <div style="display:flex; justify-content:space-between; flex-wrap:wrap; margin-bottom:4px;">
+      <h3 style="margin:0; color:#58A6FF; font-size:18px;">Data Analyst</h3>
+      <span style="color:#8B949E; font-size:14px;">Nov 2025 – Present | Bengaluru</span>
+    </div>
+    <div style="color:#FF9D00; font-size:15px; margin-bottom:8px;">Suraj & Co. – Telecom Analytics</div>
+    <ul style="margin:0; padding-left:20px; line-height:1.5;">
+      <li><b>12+ daily reports</b> generated using SQL, Power BI & Excel → improved KPI visibility</li>
+      <li>Automated Excel reporting → <b>35% less manual effort</b> (Power Query, VLOOKUP, Pivot)</li>
+      <li>Optimized SQL queries → <b>20% higher reporting accuracy</b></li>
+      <li>Analyzed <b>10,000+ records</b> → identified trends & operational gaps</li>
+      <li>Reduced report turnaround by <b>30%</b> through stakeholder collaboration</li>
+    </ul>
+  </div>
+
+  <!-- MIS Executive - Shree Shyamjee Steels -->
+  <div style="background:#0D1117; padding:14px 16px; border-radius:10px; border-left:4px solid #FF9D00;">
+    <div style="display:flex; justify-content:space-between; flex-wrap:wrap; margin-bottom:4px;">
+      <h3 style="margin:0; color:#58A6FF; font-size:18px;">MIS Executive</h3>
+      <span style="color:#8B949E; font-size:14px;">Sep 2023 – Jan 2025 | West Bengal</span>
+    </div>
+    <div style="color:#FF9D00; font-size:15px; margin-bottom:8px;">Shree Shyamjee Steels – Inventory Intelligence</div>
+    <ul style="margin:0; padding-left:20px; line-height:1.5;">
+      <li>Excel‑based stock automation → <b>40% faster reporting</b></li>
+      <li>Category‑wise inventory dashboards → improved stock visibility & tracking</li>
+      <li>Trend analysis via spreadsheet modeling → data‑driven management decisions</li>
+    </ul>
+  </div>
+
+  <!-- Associate - M/s Bansal Trading Company -->
+  <div style="background:#0D1117; padding:14px 16px; border-radius:10px; border-left:4px solid #58A6FF;">
+    <div style="display:flex; justify-content:space-between; flex-wrap:wrap; margin-bottom:4px;">
+      <h3 style="margin:0; color:#58A6FF; font-size:18px;">Business Associate</h3>
+      <span style="color:#8B949E; font-size:14px;">Jun 2022 – Sep 2023 | West Bengal</span>
+    </div>
+    <div style="color:#FF9D00; font-size:15px; margin-bottom:8px;">M/s Bansal Trading Company – Sales Operations</div>
+    <ul style="margin:0; padding-left:20px; line-height:1.5;">
+      <li>Optimized Excel record management → <b>20% faster transaction processing</b></li>
+    </ul>
+  </div>
+
+  <!-- Associate - Angel Aqua -->
+  <div style="background:#0D1117; padding:14px 16px; border-radius:10px; border-left:4px solid #8B949E;">
+    <div style="display:flex; justify-content:space-between; flex-wrap:wrap; margin-bottom:4px;">
+      <h3 style="margin:0; color:#58A6FF; font-size:18px;">Operations Associate</h3>
+      <span style="color:#8B949E; font-size:14px;">Apr 2021 – Jun 2022 | Jharkhand</span>
+    </div>
+    <div style="color:#FF9D00; font-size:15px; margin-bottom:8px;">Angel Aqua – Customer Experience</div>
+    <ul style="margin:0; padding-left:20px; line-height:1.5;">
+      <li>Resolved operational bottlenecks → <b>20% increase in client satisfaction</b></li>
+    </ul>
+  </div>
+
+</div>
 ---
 
 ## 🛠️ Technical Arsenal
